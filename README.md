@@ -1,2 +1,2 @@
-# cossieplay
-assignment
+# CossiePlay
+Small Website
